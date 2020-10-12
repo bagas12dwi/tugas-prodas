@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1602044996 source:e:\bagas dwi\kuliah\pemrograman dasar\tugas 1\tugas1\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+
